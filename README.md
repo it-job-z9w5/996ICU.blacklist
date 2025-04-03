@@ -6,10 +6,11 @@
 由于账号密码忘记了，无法维护，已迁至本仓库，望大家关注
 
 ## 站点可访问域名
-- [https://job.me88.top](https://job.me88.top)
-- [https://ipv6-job.me88.top](https://ipv6-job.me88.top)`(如果你的网络支持IPv6)`
+- [https://www.job996.xyz](https://www.job996.xyz)
+- [https://ipv6.job996.xyz](https://ipv6.job996.xyz)`(如果你的网络支持IPv6)`
 
-> me88.top 即将过期，届时会在本仓库提供新的域名
+## 即将停用域名
+- [https://job.me88.top](https://job.me88.top)
 
 ## 参与
 - `本项目数据来源互联网并整理成相同格式方便查看，以保持原汁原味为主，优化为辅`
