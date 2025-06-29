@@ -9,9 +9,6 @@
 - [https://www.job996.xyz](https://www.job996.xyz)
 - [https://ipv6.job996.xyz](https://ipv6.job996.xyz)`(如果你的网络支持IPv6)`
 
-## 即将停用域名
-- [https://job.me88.top](https://job.me88.top)
-
 ## 参与
 - `本项目数据来源互联网并整理成相同格式方便查看，以保持原汁原味为主，优化为辅`
 - `个人能力能限，目前整理的数据很有限，如果你愿意，期待一起来整理`
